@@ -120,7 +120,7 @@ app/src/main/java/com/manish/basicnoteapp/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/modern-notepad-app.git
+   git clone https://github.com/MANDEVGOD/modern-notepad-app.git
    cd modern-notepad-app
    ```
 
@@ -248,8 +248,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/modern-notepad-app/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/modern-notepad-app/discussions)
+- **Issues**: [GitHub Issues](https://github.com/MANDEVGOD/modern-notepad-app/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/MANDEVGOD/modern-notepad-app/discussions)
 - **Email**: your.email@example.com
 
 ## 🔮 Future Enhancements
